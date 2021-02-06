@@ -1,7 +1,4 @@
 class PagesController < ApplicationController
-  def one
-  end
-
-  def two
+  def three
   end
 end
